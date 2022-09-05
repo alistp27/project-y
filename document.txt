@@ -1,0 +1,5 @@
+1,avaz az hame styled-components , react-icons (avaly baraye style dadan, dovomi baraye icon)
+2.dorost kardane chineshe folder ha
+3.estefade az globalstyle baraye style koli dadan
+4.az onjaye ke az styled-components ha estefade mikonim dige niazi nist az tag haye html estefade konim
+5.style ha ro dakhele style.js vard mikonim 
